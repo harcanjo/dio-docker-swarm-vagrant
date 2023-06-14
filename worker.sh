@@ -1,0 +1,1 @@
+docker swarm join --token [SWARM_JOIN_TOKEN] [MANAGER_IP]:2377
